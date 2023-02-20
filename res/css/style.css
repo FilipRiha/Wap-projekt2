@@ -1,0 +1,42 @@
+.pole{
+	position: absolute;
+    left:500px;
+	top:100px;
+	width:606px;
+	height: 606px;
+	display:flex;
+	flex-wrap: wrap;
+}
+					/*Čtverce*/
+.square{
+	width:200px ;
+	height:200px ;
+	border: 1px solid black;
+	border-radius: 100px;
+	background-color: 	saddlebrown;
+	background-image: url(/piskovani_1.jpg);
+	background-size: cover;
+}
+
+#chyceno{
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+}
+
+#nadpis{
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+}
+.mole {					/*krtek*/
+	background-image: url("/krtek.jfif");
+	background-size: cover;
+}
+
+.mole:hover{
+	background-color: red;
+}
+
+body{					/*Tělo*/
+	background-image: url(/res/img/bac2.jpg);
+	background-size: cover;
+}
