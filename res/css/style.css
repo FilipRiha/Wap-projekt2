@@ -25,7 +25,9 @@
 
 #nadpis{
 	font-family: 'Righteous', cursive;
-	font-size: 50px;
+	font-size: 50px; 
+	text-shadow: 2px 2px 8px yellow;
+
 }
 .mole {					/*krtek*/
 	background-image: url("/krtek.jfif");
@@ -37,6 +39,10 @@
 }
 
 body{					/*Tělo*/
-	background-image: url(/res/img/bac2.jpg);
+	background-image: url("/MicrosoftTeams-image.png");
 	background-size: cover;
+}
+#chyceno{
+	color:red; 
+	text-shadow : 2px 2px 8px red;
 }

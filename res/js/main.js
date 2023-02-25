@@ -31,7 +31,7 @@ function randomSquare() {
 })
         /*krtek pujde nikam jinam*/
 function moveMole() {
-  timerId = setInterval(randomSquare, 700)
+  timerId = setInterval(randomSquare, 400)
 }
 
 moveMole()
