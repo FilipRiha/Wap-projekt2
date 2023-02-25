@@ -14,7 +14,7 @@
 	border: 1px solid black;
 	border-radius: 100px;
 	background-color: 	saddlebrown;
-	background-image: url(../res/img/Krtina.jpg);
+	background-image: url(../img/Krtina.jpg);
 	background-size: cover;
 	box-shadow: 10px 10px 20px yellow;
 }
@@ -31,7 +31,7 @@
 
 }
 .mole {					/*krtek*/
-	background-image: url(../res/img/mole.jpg);
+	background-image: url(../img/mole.jpg);
 	background-size: cover;
 }
 
@@ -40,7 +40,7 @@
 }
 
 body{					/*Tělo*/
-	background-image: url(../res/img/MicrosoftTeams-image.png);
+	background-image: url(../img/MicrosoftTeams-image.png);
 	background-size: cover;
 }
 #chyceno{
