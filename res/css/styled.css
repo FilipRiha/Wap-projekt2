@@ -1,0 +1,24 @@
+.tlacitko{
+    border: 1px solid black;
+    border-radius: 20px;
+    position: relative;
+    left: 620px; 
+    top: 300px;
+    font-size: 200px;
+    background-color: aqua;
+   text-shadow: 3px 3px 15px yellow;
+
+
+}
+body{
+    background-image: url("/MicrosoftTeams-image.png");
+	background-size: cover;
+}
+#nadpis{
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 3px 3px 25px yellow;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: aqua;
+}

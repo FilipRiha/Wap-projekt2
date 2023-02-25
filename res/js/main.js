@@ -1,10 +1,10 @@
 const čtverec = document.querySelectorAll('.square')
 const krtek = document.querySelector('.mole')
 const chyceno = document.querySelector('#chyceno')
+const nadpis = document.getElementById("nadpis");
 
 let boom
 let body = 0
-
 
 
 function randomSquare() {
@@ -31,7 +31,7 @@ function randomSquare() {
 })
         /*krtek pujde nikam jinam*/
 function moveMole() {
-  timerId = setInterval(randomSquare, 400)
+  timerId = setInterval(randomSquare, 300)
 }
 
 moveMole()

@@ -16,6 +16,7 @@
 	background-color: 	saddlebrown;
 	background-image: url(/piskovani_1.jpg);
 	background-size: cover;
+	box-shadow: 10px 10px 20px yellow;
 }
 
 #chyceno{
@@ -30,7 +31,7 @@
 
 }
 .mole {					/*krtek*/
-	background-image: url("/krtek.jfif");
+	background-image: url("/mole.jpg");
 	background-size: cover;
 }
 
