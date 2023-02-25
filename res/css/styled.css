@@ -7,11 +7,12 @@
     font-size: 200px;
     background-color: aqua;
    text-shadow: 3px 3px 15px yellow;
+   font-family: 'Righteous', cursive;
 
 
 }
 body{
-    background-image: url("/MicrosoftTeams-image.png");
+    background-image: url(/res/img/MicrosoftTeams-image.png);
 	background-size: cover;
 }
 #nadpis{
@@ -21,4 +22,5 @@ body{
     border: 1px solid black;
     border-radius: 40px;
     background-color: aqua;
+    font-family: 'Righteous', cursive;
 }
